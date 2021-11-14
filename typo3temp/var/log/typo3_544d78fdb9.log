@@ -1,0 +1,6 @@
+Sun, 14 Nov 2021 15:03:53 +0000 [ALERT] request="11f675f5ebf11" component="TYPO3.CMS.Frontend.Controller.TypoScriptFrontendController": No TypoScript template found! 
+Sun, 14 Nov 2021 15:04:08 +0000 [ALERT] request="d5a5f6b7c43f4" component="TYPO3.CMS.Frontend.Controller.TypoScriptFrontendController": No TypoScript template found! 
+Sun, 14 Nov 2021 15:05:01 +0000 [ALERT] request="4ce9710cdf447" component="TYPO3.CMS.Frontend.Controller.TypoScriptFrontendController": The page is not configured! [type=0][]. 
+Sun, 14 Nov 2021 15:05:01 +0000 [ALERT] request="5343ea32fe1a6" component="TYPO3.CMS.Frontend.Controller.TypoScriptFrontendController": The page is not configured! [type=0][]. 
+Sun, 14 Nov 2021 15:05:50 +0000 [ALERT] request="b0bc143cc522b" component="TYPO3.CMS.Frontend.Controller.TypoScriptFrontendController": The page is not configured! [type=0][]. 
+Sun, 14 Nov 2021 15:08:03 +0000 [ALERT] request="eda2bab8334e7" component="TYPO3.CMS.Frontend.Controller.TypoScriptFrontendController": The page is not configured! [type=0][]. 
