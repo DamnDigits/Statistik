@@ -4,3 +4,5 @@ Sun, 14 Nov 2021 15:05:01 +0000 [ALERT] request="4ce9710cdf447" component="TYPO3
 Sun, 14 Nov 2021 15:05:01 +0000 [ALERT] request="5343ea32fe1a6" component="TYPO3.CMS.Frontend.Controller.TypoScriptFrontendController": The page is not configured! [type=0][]. 
 Sun, 14 Nov 2021 15:05:50 +0000 [ALERT] request="b0bc143cc522b" component="TYPO3.CMS.Frontend.Controller.TypoScriptFrontendController": The page is not configured! [type=0][]. 
 Sun, 14 Nov 2021 15:08:03 +0000 [ALERT] request="eda2bab8334e7" component="TYPO3.CMS.Frontend.Controller.TypoScriptFrontendController": The page is not configured! [type=0][]. 
+Sun, 21 Nov 2021 10:44:41 +0000 [ALERT] request="8a000938f568a" component="TYPO3.CMS.Frontend.Controller.TypoScriptFrontendController": The page is not configured! [type=0][]. 
+Sun, 21 Nov 2021 10:45:23 +0000 [ALERT] request="a7eeb0a68d28c" component="TYPO3.CMS.Frontend.Controller.TypoScriptFrontendController": The page is not configured! [type=0][]. 
