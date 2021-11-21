@@ -173,3 +173,4 @@ Copyleft
 --------
 
 This document is a part of the TYPO3 project.
+# Statistik

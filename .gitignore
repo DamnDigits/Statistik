@@ -1,2 +1,20 @@
 typo3temp/var/cache/data/dashboard_rss/d9fee822f515f03780540e04a72973ca
 typo3temp/var/log/typo3_544d78fdb9.log
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# Other files and folders
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
