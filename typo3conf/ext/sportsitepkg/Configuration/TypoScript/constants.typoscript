@@ -24,8 +24,8 @@ page {
         partialRootPath = EXT:sportsitepkg/Resources/Private/Partials/Page/
         templateRootPath = EXT:sportsitepkg/Resources/Private/Templates/Page/
     }
+    config.contentObjectExceptionHandler = 0
 }
-
 
 ##################
 ### EXTENSIONS ###

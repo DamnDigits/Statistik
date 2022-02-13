@@ -3,6 +3,14 @@ return array (
   'sportstatistikidtm' => 
   array (
     'base' => '/',
+    'baseVariants' => 
+    array (
+      0 => 
+      array (
+        'base' => 'www.Sportstatistik.com',
+        'condition' => 'applicationContext == "Production"',
+      ),
+    ),
     'languages' => 
     array (
       0 => 

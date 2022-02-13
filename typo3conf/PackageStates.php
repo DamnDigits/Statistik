@@ -95,6 +95,12 @@ return [
         'viewpage' => [
             'packagePath' => 'typo3/sysext/viewpage/',
         ],
+        'bootstrap_package' => [
+            'packagePath' => 'typo3conf/ext/bootstrap_package/',
+        ],
+        'sportsitepkg' => [
+            'packagePath' => 'typo3conf/ext/sportsitepkg/',
+        ],
     ],
     'version' => 5,
 ];

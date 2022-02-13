@@ -30,11 +30,22 @@ return [
     'EXTENSIONS' => [
         'backend' => [
             'backendFavicon' => '',
-            'backendLogo' => '',
-            'loginBackgroundImage' => '',
+            'backendLogo' => 'EXT:bootstrap_package/Resources/Public/Images/Backend/backend-logo.svg',
+            'loginBackgroundImage' => 'EXT:bootstrap_package/Resources/Public/Images/Backend/login-background-image.jpg',
             'loginFootnote' => '',
             'loginHighlightColor' => '',
-            'loginLogo' => '',
+            'loginLogo' => 'EXT:bootstrap_package/Resources/Public/Images/Backend/login-logo.svg',
+        ],
+        'bootstrap_package' => [
+            'disableCssProcessing' => '0',
+            'disableFontLoader' => '0',
+            'disableGoogleFontCaching' => '0',
+            'disablePageTsBackendLayouts' => '0',
+            'disablePageTsContentElements' => '0',
+            'disablePageTsRTE' => '0',
+            'disablePageTsTCADefaults' => '0',
+            'disablePageTsTCEFORM' => '0',
+            'disablePageTsTCEMAIN' => '0',
         ],
         'extensionmanager' => [
             'automaticInstallation' => '1',
@@ -105,7 +116,7 @@ return [
             ],
         ],
         'devIPmask' => '',
-        'displayErrors' => 0,
+        'displayErrors' => 1,
         'encryptionKey' => '1175016b9de9e20f3f586171d7e98995ee0bfdf7ff15e09a2bf4fcd68c55aabcbf89e3501de9219d37c8270e9b066a68',
         'exceptionalErrors' => 4096,
         'features' => [
@@ -119,5 +130,6 @@ return [
         'systemMaintainers' => [
             1,
         ],
+	'trustedHostsPattern' => 'www.Sportstatistik.com'
     ],
 ];

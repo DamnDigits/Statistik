@@ -1,4 +1,8 @@
 base: /
+baseVariants:
+  -
+    base: www.Sportstatistik.com
+    condition: 'applicationContext == "Production"'
 languages:
   -
     title: English
